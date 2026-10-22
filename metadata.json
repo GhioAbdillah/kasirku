@@ -1,0 +1,6 @@
+{
+  "name": "KasirKu POS - Sistem Kasir & Manajemen Toko",
+  "description": "Aplikasi kasir (Point of Sale) modern, cepat, dan lengkap untuk UMKM, retail, cafe, dan resto dengan cetak struk thermal, QRIS, manajemen stok, dan laporan penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
